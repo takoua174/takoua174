@@ -40,7 +40,7 @@ Coming soon — a selection of projects demonstrating my experience in software 
 
 ### 🤝 Let's Connect
 
-- LinkedIn: [My LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/takwa-ayadi-301066310/))
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/takwa-ayadi-301066310/)
 - Email: takoya.ayadi4@gmail.com
 - GitHub: [@takoua174](https://github.com/takoua174)
 
